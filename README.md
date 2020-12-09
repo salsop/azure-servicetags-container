@@ -1,4 +1,5 @@
 ![Support:Community](https://img.shields.io/badge/Support-Community-blue)
+![License:MIT](https://img.shields.io/badge/License-MIT-green)
 
 # Azure Service Tags as Palo Alto Networks External Dynamic Lists (EDL)
 
